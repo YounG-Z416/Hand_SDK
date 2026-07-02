@@ -1,2 +1,2 @@
 # hand-SDK
-hand SDK: Python package for automatic device discovery and real-time data streaming with Stellarobot devices. 
+hand SDK: Unified SDK for controlling multiple Stellarobot hands (Gaia, Pantheon, etc.) with high‑level APIs and low‑level access.
