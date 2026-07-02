@@ -1,7 +1,6 @@
 # hand_SDK
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)
-![Coverage](https://codecov.io/gh/YounG-Z416/hand_SDK/branch/main/graph/badge.svg)
 
 A unified control module for Stellarobot dexterous hands, supporting multiple hand interfaces including Gaia, Pantheon, and more. Providing both high‑level abstraction and low‑level control primitives, making it suitable for robotics research, education, and industrial applications.
 
